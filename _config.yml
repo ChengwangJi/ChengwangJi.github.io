@@ -12,8 +12,8 @@ title                    : "Chengwang Ji (季成旺) / Homepage"
 title_separator          : "-"
 name                     : &name "Chengwang Ji"
 description              : &description "personal description"
-url                      : https://ChengwangJi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://ChengwangJi.github.io" # the subpath of your site, e.g. "/blog"
+url                      : "https://ChengwangJi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "ChengwangJi/ChengwangJi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
