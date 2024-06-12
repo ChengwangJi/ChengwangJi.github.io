@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Macau, China"
   employer         : "University of Macau"
-  uri              : # URL
+  url              : # URL
   email            : "ji.chengwang@um.edu.mo" 
 
   # Academic websites
