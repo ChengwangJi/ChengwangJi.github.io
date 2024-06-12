@@ -11,7 +11,9 @@ Chengwang Ji received the B.Eng. degree in communication engineering from Jilin 
 
 Contact
 ======
-Email: ji.chengwang.um.edu.mo
-Phone: (+853) 63457118
+**Email:** ji.chengwang.um.edu.mo  
+**Phone:** (+853) 63457118  
+           (+86) 18239323972 
+
 
 
