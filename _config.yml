@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chengwang Ji (季成旺) / Site Title"
+title                    : "Chengwang Ji (季成旺) / Homepage"
 title_separator          : "-"
 name                     : &name "Chengwang Ji"
 description              : &description "personal description"
