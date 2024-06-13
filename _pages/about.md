@@ -13,4 +13,3 @@ Contact
 ======
 **Email:** ji.chengwang@um.edu.mo  
 **Phone:** (+853) 63457118 / (+86) 18239323972
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Re8rPk_j62YDfKrV5safqT48yKFthB4wzSlODLt0qWM&cl=ffffff&w=a"></script>
