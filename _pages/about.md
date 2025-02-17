@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.Eng. degree in communication engineering from Jilin University, Changchun, China, in 2022. I am currently pursuing the Ph.D. degree with the State Key Laboratory of Internet of Things for Smart City, Department of Electrical and Computer Engineering, University of Macau, Macau, China. My main research interests include RIS, mmWave communication, beam management, federated learning.
+I received the B.Eng. degree in communication engineering from Jilin University, Changchun, China, in 2022. I am currently pursuing the Ph.D. degree with the State Key Laboratory of Internet of Things for Smart City, Department of Electrical and Computer Engineering, University of Macau, Macau, China. My main research interests include AI for wireless communication, mmWave communication, RIS, beam management.
 
 Contact
 ======
