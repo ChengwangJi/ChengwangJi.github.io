@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-09-05
-venue: 'Journal 1'
+venue: 'IEEE ICCC 2023'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10233300'
 citation: 'J. Wang, C. Ji, J. Guo, and S. Ma, “Demo: Reconfigurable distributed antennas and reflecting surface (RDARS)-aided integrated sensing and communication system,” in Proc. IEEE ICCC, 2023, pp. 1–2.'
