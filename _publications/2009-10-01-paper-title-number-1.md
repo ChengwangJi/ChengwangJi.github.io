@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-02-01
-venue: '3rd Quart.'
+venue: 'IEEE Communications Surveys & Tutorials'
 slidesurl: 'http://ChengwangJi.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10422712'
 citation: 'Q. Xue, C. Ji, S. Ma, J. Guo, Y. Xu, Q. Chen, and W. Zhang, “A survey of beam management for mmWave and THz communications towards 6G,” IEEE Commun. Surveys Tuts., vol. 26, no. 3, pp. 1520–1559, 3rd Quart., 2024.'
