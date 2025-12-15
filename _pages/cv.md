@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/cv.pdf" target="_blank" style="font-size: 1.2em; font-weight: bold; text-decoration: none;">
+<a href="/files/CV_ChengwangJi.pdf" target="_blank" style="font-size: 1.2em; font-weight: bold; text-decoration: none;">
   📄 Download CV (PDF)
 </a>
 <br/><br/>
