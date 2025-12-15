@@ -9,10 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/CV_ChengwangJi.pdf" target="_blank" style="font-size: 1.2em; font-weight: bold; text-decoration: none;">
-  📄 Download CV (PDF)
-</a>
-<br/><br/>
+<div style="margin-bottom: 30px; display: flex; flex-wrap: wrap; gap: 15px;">
+  
+  <a href="/files/cv_en.pdf" target="_blank" style="
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #24292e; /* GitHub Black */
+      color: #ffffff;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+      border: 1px solid #24292e;">
+    📄 English CV (PDF)
+  </a>
+
+  <a href="/files/cv_cn.pdf" target="_blank" style="
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #ffffff; 
+      color: #24292e;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+      border: 1px solid #24292e;">
+    📄 中文简历 (PDF)
+  </a>
+
+</div>
 
 Education
 ======
