@@ -6,6 +6,6 @@ excerpt: 'Reconfigurable distributed antenna and reflecting surface (RDARS) is a
 date: 2025-12-01
 venue: 'IEEE Transactions on Wireless Communications'
 slidesurl: 'http://ChengwangJi.github.io/files/slides1.pdf'
-paperurl: '[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10422712](https://ieeexplore.ieee.org/document/11282947)'
+paperurl: 'https://ieeexplore.ieee.org/document/11282947'
 citation: 'Q. Xue, C. Ji, S. Ma, J. Guo, Y. Xu, Q. Chen, and W. Zhang, “A survey of beam management for mmWave and THz communications towards 6G,” IEEE Commun. Surveys Tuts., vol. 26, no. 3, pp. 1520–1559, 3rd Quart., 2024.' 'C. Ji, Q. Xue, H. Lu, Q. Peng, J. Wang, S. Ma, and W. Zhang, “Reconfigurable codebook-based beamforming for RDARS-aided mmWave MU-MIMO systems,” IEEE Trans.Wireless Commun., 2025, Early Access, doi: 10.1109/TWC.2025.3637814.'
 ---
