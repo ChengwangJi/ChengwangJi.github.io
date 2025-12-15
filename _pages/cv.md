@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="/files/cv.pdf" target="_blank" style="font-size: 1.2em; font-weight: bold; text-decoration: none;">
+  📄 Download CV (PDF)
+</a>
+<br/><br/>
+
 Education
 ======
 * Ph.D in University of Macau, 2022-2026 (expected)
