@@ -15,6 +15,7 @@ I received the B.Eng. degree in communication engineering from Jilin University,
 * **Nov.22, 2025**: Our work about the reconfigurable codebook-based beamforming design for RDARS is accpeted by TWC.
 * **Oct.27, 2025**: I gave a talk to share our recent work with Professors and students from Guangzhou University.
 * **Jun.10, 2025**: I presented our work about RDARS in IEEE ICC 2025 in Montreal, Canada.
+* **Aug.11, 2023**: Our demo (RDARS-aided ISAC system) is presented in ICCC 2023 in Dalian, China.
 * **Aug, 2022**: I joined the University of Macau as a Ph.D. student.
 
 Contact
