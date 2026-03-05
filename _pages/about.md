@@ -19,6 +19,14 @@ I received the B.Eng. degree in communication engineering from Jilin University,
 * **Aug.11, 2023**: Our demo (RDARS-aided ISAC system) is presented in ICCC 2023 in Dalian, China.
 * **Aug, 2022**: I joined the University of Macau as a Ph.D. student.
 
+
+## Research Interest 📡
+------
+**1. Model-driven deep learning** 
+xxx
+**2. Reconfigurable antenna** 
+xxx
+
 Contact
 ======
 **Email:** ji.chengwang@connect.um.edu.mo  
