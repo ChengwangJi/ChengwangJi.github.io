@@ -11,6 +11,7 @@ I received the B.Eng. degree in communication engineering from Jilin University,
 
 ## Recent News 📢
 ------
+* **Mar.9, 2026**: Our work about joint ISAC waveform and mode selection design is accepted by IEEE ICC 2026 workshop: 4th Workshop on "Intelligent Movable and Reconfigurable Antennas for Future Wireless Communication and Sensing".
 * **Mar.2, 2026**: I gave a presentation in the Postgraduate Student Forum in University of Macau.
 * **Nov.22, 2025**: Our work about the reconfigurable codebook-based beamforming design for RDARS is accpeted by TWC.
 * **Oct.27, 2025**: I gave a talk to share our recent work with Professors and students from Guangzhou University.
