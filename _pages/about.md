@@ -27,24 +27,24 @@ My main research interests include model-driven deep learning for wireless commu
 
 ## Research Interest 📡
 ------
-**1. Model-driven deep learning** 
-**2. Reconfigurable antenna** 
-**3. Integrated sensing and communication** 
-**4. Near field communication** 
+* **1. Model-driven deep learning** 
+* **2. Reconfigurable antenna** 
+* **3. Integrated sensing and communication** 
+* **4. Near field communication** 
 
 
 ## Publications
 # Journal
-•	**Chengwang Ji**, Haiquan Lu, Kehui Li, Qiaoyan Peng, Jintao Wang, and Shaodan Ma*, “Model-driven deep learning enhanced joint beamforming and mode switching for RDARS-aided MIMO systems,” IEEE Trans. Cogn. Commun. Netw., under review, 2026. (SCI Q1, IF 7.0)
-•	**Chengwang Ji**, Qing Xue, Haiquan Lu*, Jintao Wang, Qiaoyan Peng, Shaodan Ma* and Wei Zhang, “Reconfigurable codebook-based beamforming for RDARS-aided mmWave MU-MIMO systems,” IEEE Trans. Wireless Commun., vol. 25, pp. 8417-8433, 2026. (SCI Q1, IF 10.7)
-•	**Chengwang Ji**, Haiquan Lu*, Qiaoyan Peng, Jintao Wang, and Shaodan Ma*, “Joint sparsity and beamforming design for RDARS-aided systems,” accepted by IEEE Wireless Commun. Lett. (SCI Q1, IF 5.5)
-•	Qing Xue, **Chengwang Ji**, Shaodan Ma*, Jiajia Guo, Yongjun Xu, Qianbin Chen, and Wei Zhang, “A survey of beam management for mmWave and THz communications towards 6G,” IEEE Commun. Surveys Tuts., vol. 26, no. 3, pp. 1520–1559, 3rd Quart., 2024. (SCI Q1, IF 46.7)
-•	Jintao Wang, Pingping Zhang, Chengzhi Ma, **Chengwang Ji**, Zheng Shi, Guanghua Yang, and Shaodan Ma*, “A new paradigm towards reconfigurable environment: Reconfigurable distributed antennas and reflecting surface,” Journal of Communication and Information Networks.
+* **Chengwang Ji**, Haiquan Lu, Kehui Li, Qiaoyan Peng, Jintao Wang, and Shaodan Ma*, “Model-driven deep learning enhanced joint beamforming and mode switching for RDARS-aided MIMO systems,” IEEE Trans. Cogn. Commun. Netw., under review, 2026. (SCI Q1, IF 7.0)
+* **Chengwang Ji**, Qing Xue, Haiquan Lu*, Jintao Wang, Qiaoyan Peng, Shaodan Ma* and Wei Zhang, “Reconfigurable codebook-based beamforming for RDARS-aided mmWave MU-MIMO systems,” IEEE Trans. Wireless Commun., vol. 25, pp. 8417-8433, 2026. (SCI Q1, IF 10.7)
+* **Chengwang Ji**, Haiquan Lu*, Qiaoyan Peng, Jintao Wang, and Shaodan Ma*, “Joint sparsity and beamforming design for RDARS-aided systems,” accepted by IEEE Wireless Commun. Lett. (SCI Q1, IF 5.5)
+* Qing Xue, **Chengwang Ji**, Shaodan Ma*, Jiajia Guo, Yongjun Xu, Qianbin Chen, and Wei Zhang, “A survey of beam management for mmWave and THz communications towards 6G,” IEEE Commun. Surveys Tuts., vol. 26, no. 3, pp. 1520–1559, 3rd Quart., 2024. (SCI Q1, IF 46.7)
+* Jintao Wang, Pingping Zhang, Chengzhi Ma, **Chengwang Ji**, Zheng Shi, Guanghua Yang, and Shaodan Ma*, “A new paradigm towards reconfigurable environment: Reconfigurable distributed antennas and reflecting surface,” Journal of Communication and Information Networks.
 
 # Conference
-•	**Chengwang Ji**, Haiquan Lu, Qiaoyan Peng, Jintao Wang, and Shaodan Ma*, “Joint waveform and mode switching design for RDARS-aided integrated sensing and communication systems,” in Proc. IEEE International Conf. on Commun. (ICC) Workshops, 2026. (Flagship conference)
-•	**Chengwang Ji**, Qiaoyan Peng, Jintao Wang, Ziqian Pei, and Shaodan Ma*, “Channel-aware mode switching enhanced RDARS-aided downlink mmWave MIMO systems,” in Proc. IEEE International Conf. on Commun. (ICC), 2025. (Flagship conference)
-•	Jintao Wang, **Chengwang Ji**, Jiajia Guo, and Shaodan Ma*, “Demo: Reconfigurable distributed antennas and reflecting surface (RDARS)-aided integrated sensing and communication system,” in Proc. IEEE International Conf. on Commun. in China (ICCC), 2023, pp. 1–2.
+* **Chengwang Ji**, Haiquan Lu, Qiaoyan Peng, Jintao Wang, and Shaodan Ma*, “Joint waveform and mode switching design for RDARS-aided integrated sensing and communication systems,” in Proc. IEEE International Conf. on Commun. (ICC) Workshops, 2026. (Flagship conference)
+* **Chengwang Ji**, Qiaoyan Peng, Jintao Wang, Ziqian Pei, and Shaodan Ma*, “Channel-aware mode switching enhanced RDARS-aided downlink mmWave MIMO systems,” in Proc. IEEE International Conf. on Commun. (ICC), 2025. (Flagship conference)
+* Jintao Wang, **Chengwang Ji**, Jiajia Guo, and Shaodan Ma*, “Demo: Reconfigurable distributed antennas and reflecting surface (RDARS)-aided integrated sensing and communication system,” in Proc. IEEE International Conf. on Commun. in China (ICCC), 2023, pp. 1–2.
 
 
 Contact
