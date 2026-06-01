@@ -13,6 +13,7 @@ My main research interests include model-driven deep learning for wireless commu
 
 ## Recent News 📢
 ------
+* **May 24, 2026**: I presented our work in IEEE ICC, in Glasgow, UK.
 * **Apr.20, 2026**: Our work about sparse array-based mode selection is accepted by IEEE WCL.
 * **Apr.3, 2026**: Our work "A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface" is accepted by JCIN.
 * **Mar.9, 2026**: Our work about joint ISAC waveform and mode selection design is accepted by IEEE ICC 2026 workshop: 4th Workshop on "Intelligent Movable and Reconfigurable Antennas for Future Wireless Communication and Sensing".
