@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.Eng. degree in communication engineering from Jilin University, Changchun, China, in 2022. I am currently pursuing the Ph.D. degree with the State Key Laboratory of Internet of Things for Smart City, Department of Electrical and Computer Engineering, University of Macau, Macau, China, under the supervision of Prof. Shaodan Ma.
+I received the B.Eng. degree in communication engineering from Jilin University, Changchun, China, in 2022. I am currently pursuing the Ph.D. degree with the State Key Laboratory of Internet of Things for Smart City, Department of Electrical and Computer Engineering, University of Macau, Macau, China, under the supervision of Prof. Shaodan Ma.I will join the State Key Laboratory of Internet of Things for Smart City at the University of Macau as a Research Assistant in August 2026.
 
-My main research interests include model-driven deep learning for wireless communication, integrated sensing and communication, reconfigurable antenna and surface.
 
 ## Recent News 📢
 ------
