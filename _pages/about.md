@@ -18,7 +18,7 @@ I received the B.Eng. degree in communication engineering from Jilin University,
 ## Education Experience
 ------
 * 2022.8-present, Ph.D, Electrical and Computer Engineering, University of Macau, Macau, China
-* 2018.9-2022.6, Bachlor, Communication Engineering, Jilin University, Changchun, China
+* 2018.9-2022.6, Bachelor, Communication Engineering, Jilin University, Changchun, China
 
 
 
