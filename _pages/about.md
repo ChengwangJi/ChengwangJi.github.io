@@ -33,7 +33,7 @@ My main research interests include model-driven deep learning for wireless commu
 ## Research Interest 📡
 ------
 * **1. Model-driven deep learning** 
-* **2. Reconfigurable antenna** 
+* **2. Reconfigurable antenna array** 
 * **3. Integrated sensing and communication** 
 * **4. Near field communication** 
 
