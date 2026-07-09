@@ -32,6 +32,7 @@ I received the B.Eng. degree in communication engineering from Jilin University,
 * **Mar.9, 2026**: Our work about joint ISAC waveform and mode selection design is accepted by IEEE ICC 2026 workshop: 4th Workshop on "Intelligent Movable and Reconfigurable Antennas for Future Wireless Communication and Sensing".
 * **Mar.2, 2026**: I gave a presentation about recent RDARS works in the Postgraduate Student Forum in University of Macau.
 * **Feb.10, 2026**: I was invited to serve as a TPC member for Signal Processing for Wireless Communications, Cooperative Communication, at VTC Spring, 2026.
+* **Jan.13, 2026**: Our paper "A survey of beam management for mmWave and THz communications towards 6G" was selected as **Excellent Paper of the 2026 Sichuan-Chongqing Science and Technology Conference**.
 * **Dec.7, 2025**: I was invited to serve as a TPC member for SAC ISAC at ICC 2026.
 * **Nov.22, 2025**: Our work about the reconfigurable codebook-based beamforming design for RDARS is accpeted by TWC.
 * **Oct.27, 2025**: I gave a talk to share our recent work with Professors and students from Guangzhou University.
