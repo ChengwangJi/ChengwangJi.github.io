@@ -53,7 +53,7 @@ I received the B.Eng. degree in communication engineering from Jilin University,
 
 ## Publications
 # Journal
-* **Chengwang Ji**, [Haiquan Lu](https://scholar.google.com/citations?user=RZcHrzgAAAAJ&hl=en), Qiaoyan Peng, [Jintao Wang](https://scholar.google.com/citations?user=dkQrb10AAAAJ&hl=en), Feifei Gao, and Shaodan Ma\*, “Mode switching for RDARS-aided ISAC systems: From optimization to deep unfolding,” submitted to IEEE Trans. Commun., under review.
+* **Chengwang Ji**, <a href="https://scholar.google.com/citations?user=RZcHrzgAAAAJ&hl=en" target="_blank">Haiquan Lu</a>, Qiaoyan Peng, <a href="[https://scholar.google.com/citations?user=RZcHrzgAAAAJ&hl=en](https://scholar.google.com/citations?user=dkQrb10AAAAJ&hl=en)" target="_blank">Jintao Wang</a>, Feifei Gao, and Shaodan Ma\*, “Mode switching for RDARS-aided ISAC systems: From optimization to deep unfolding,” submitted to IEEE Trans. Commun., under review.
 * **Chengwang Ji**, Haiquan Lu, Kehui Li, Qiaoyan Peng, Jintao Wang, and Shaodan Ma\*, “Model-driven deep learning enhanced joint beamforming and mode switching for RDARS-aided MIMO systems,” IEEE Trans. Cogn. Commun. Netw., major revision, 2026. (SCI Q1, IF 7.0)
 * **Chengwang Ji**, Qing Xue, Haiquan Lu\*, Jintao Wang, Qiaoyan Peng, Shaodan Ma\* and Wei Zhang, “Reconfigurable codebook-based beamforming for RDARS-aided mmWave MU-MIMO systems,” IEEE Trans. Wireless Commun., vol. 25, pp. 8417-8433, 2026. (SCI Q1, IF 10.7)
 * **Chengwang Ji**, Haiquan Lu\*, Qiaoyan Peng, Jintao Wang, and Shaodan Ma\*, “Joint sparsity and beamforming design for RDARS-aided systems,” IEEE Wireless Commun. Lett., vol. 15, pp. 2934–2938, 2026. (SCI Q1, IF 5.5)
