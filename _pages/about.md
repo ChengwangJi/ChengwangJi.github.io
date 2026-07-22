@@ -24,6 +24,7 @@ I received the B.Eng. degree in communication engineering from Jilin University,
 
 ## Recent News 📢
 ------
+* **Jul.22, 2026**: I pass my PhD oral defense titled "Beamforming and Mode Selection for RDARS-Aided Communication and Sensing Systems"!
 * **Jul.1, 2026**: Our paper "Mode switching for RDARS-aided ISAC systems: From optimization to deep unfolding" was submitted to IEEE TCOM.
 * **Jun.23, 2026**: Our paper "A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface" was selected as the **cover article** in JCIN.
 * **Jun.22, 2026**: I was invited to serve as a TPC member for Workshop 13, “Workshop on Reconfigurable Electromagnetic Technologies for 6G Multi-Functional Networks,” at PIMRC 2026.
