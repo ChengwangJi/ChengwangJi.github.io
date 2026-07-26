@@ -1,10 +1,10 @@
 {
-  "name": "academic-pages",
+  "name": "chengwangji-github-io",
   "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "description": "Build scripts for Chengwang Ji's academic homepage",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/ChengwangJi/ChengwangJi.github.io"
   },
   "keywords": [
     "jekyll",
@@ -16,10 +16,7 @@
     "Robert Zupko"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
-  },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://ChengwangJi.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },

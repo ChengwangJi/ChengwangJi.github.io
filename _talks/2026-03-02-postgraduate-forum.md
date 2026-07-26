@@ -2,7 +2,7 @@
 title: "Reconfigurable Distributed Antennas and Reflecting Surface (RDARS)-Enhance Communication and Sensing Systems"
 collection: talks
 type: "Postgraduate Student Forum"
-permalink:
+permalink: /talks/2026-03-02-postgraduate-forum
 venue: "Room 6007, Research Building N21, University of Macau"
 date: 2026-03-02
 location: "Macau, China"

@@ -39,12 +39,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in University of Macau, 2022-2026 (expected)
+* Ph.D. in Electrical and Computer Engineering, University of Macau, 2022-2026
 * B.E. in Jilin University, 2018-2022
 
 Work experience
 ======
-* None
+* Research Assistant, University of Macau, 2026-2027
 
   
 Skills
@@ -64,13 +64,3 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
