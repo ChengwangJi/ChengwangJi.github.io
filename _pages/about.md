@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the PhD. degree in Electrical and Computer Engineering, under the supervision of Prof. Shaodan Ma, from University of Macau in 2026, and B.Eng. degree in communication engineering from Jilin University, Changchun, China, in 2022. I will join the State Key Laboratory of Internet of Things for Smart City at the University of Macau as a Research Assistant in August 2026.
+I received the PhD. degree in Electrical and Computer Engineering, under the supervision of <a href="https://personal.fst.um.edu.mo/shaodanma/" target="_blank">Prof. Shaodan Ma</a>, from University of Macau in 2026, and B.Eng. degree in communication engineering from Jilin University, Changchun, China, in 2022. I will join the State Key Laboratory of Internet of Things for Smart City at the University of Macau as a Research Assistant in August 2026.
 
 
 
