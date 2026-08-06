@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the PhD. degree in Electrical and Computer Engineering, under the supervision of <a href="https://personal.fst.um.edu.mo/shaodanma/" target="_blank">Prof. Shaodan Ma</a>, from the <a href="https://skliotsc.um.edu.mo/" target="_blank">State Key Laboratory of Internet of Things for Smart City</a>,  <a href="https://www.um.edu.mo/" target="_blank">University of Macau</a> in 2026, and B.Eng. degree in communication engineering from <a href="https://en.jlu.edu.cn/" target="_blank">Jilin University</a>, Changchun, China, in 2022. I will join the State Key Laboratory of Internet of Things for Smart City at the University of Macau as a Research Assistant in August 2026.
+I received the PhD. degree in Electrical and Computer Engineering, under the supervision of <a href="https://personal.fst.um.edu.mo/shaodanma/" target="_blank">Prof. Shaodan Ma</a>, from the <a href="https://skliotsc.um.edu.mo/" target="_blank">State Key Laboratory of Internet of Things for Smart City</a>,  <a href="https://www.um.edu.mo/" target="_blank">University of Macau</a> in 2026, and B.Eng. degree in communication engineering from <a href="https://en.jlu.edu.cn/" target="_blank">Jilin University</a>, Changchun, China, in 2022. Now I am a Research Assistant in the State Key Laboratory of Internet of Things for Smart City at the University of Macau.
 
 
 
@@ -24,6 +24,8 @@ I received the PhD. degree in Electrical and Computer Engineering, under the sup
 
 ## Recent News 📢
 ------
+* **Aug.5, 2026**: I joined the State Key Laboratory of Internet of Things for Smart City at University of Macau as a research assistant!
+* **Aug.3, 2026**: I gave a talk "RDARS-Enhanced Communication and Sensing Systems: From Optimization to Deep Unfolding" in the joint summer seminar with Tsinghua University at University of Macau.
 * **Jul.22, 2026**: I pass my PhD oral defense titled "Beamforming and Mode Selection for RDARS-Aided Communication and Sensing Systems"!
 * **Jul.1, 2026**: Our paper "Mode switching for RDARS-aided ISAC systems: From optimization to deep unfolding" was submitted to IEEE TCOM.
 * **Jun.23, 2026**: Our paper "A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface" was selected as the **cover article** in JCIN.
