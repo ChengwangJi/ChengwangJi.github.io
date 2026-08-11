@@ -17,7 +17,7 @@ I received the PhD. degree in Electrical and Computer Engineering, under the sup
 
 ## Education Experience
 ------
-* 2022.8-present, Ph.D, Electrical and Computer Engineering, University of Macau, Macau, China
+* 2022.8-2026.7, Ph.D, Electrical and Computer Engineering, University of Macau, Macau, China
 * 2018.9-2022.6, Bachelor, Communication Engineering, Jilin University, Changchun, China
 
 
