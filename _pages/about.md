@@ -27,7 +27,7 @@ I received the PhD. degree in Electrical and Computer Engineering, under the sup
 * **Aug.23, 2026**: I was invited to serve as a TPC member for Workshop, “Next-Generation Signal Processing, Architecture and Waveforms for Intelligent 3CLS,” at Globecom 2026.
 * **Aug.5, 2026**: I joined the State Key Laboratory of Internet of Things for Smart City at University of Macau as a research assistant!
 * **Aug.3, 2026**: I gave a talk "RDARS-Enhanced Communication and Sensing Systems: From Optimization to Deep Unfolding" in the joint summer seminar with Tsinghua University at University of Macau.
-* **Jul.22, 2026**: I pass my PhD oral defense titled "Beamforming and Mode Selection for RDARS-Aided Communication and Sensing Systems"!
+* **Jul.22, 2026**: **I pass my PhD oral defense titled "Beamforming and Mode Selection for RDARS-Aided Communication and Sensing Systems"!**
 * **Jul.1, 2026**: Our paper "Mode switching for RDARS-aided ISAC systems: From optimization to deep unfolding" was submitted to IEEE TCOM.
 * **Jun.23, 2026**: Our paper "A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface" was selected as the **cover article** in JCIN.
 * **Jun.22, 2026**: I was invited to serve as a TPC member for Workshop 13, “Workshop on Reconfigurable Electromagnetic Technologies for 6G Multi-Functional Networks,” at PIMRC 2026.
