@@ -9,7 +9,7 @@ redirect_from:
 
 Chengwang Ji (季成旺) received the PhD. degree in Electrical and Computer Engineering, under the supervision of <a href="https://personal.fst.um.edu.mo/shaodanma/" target="_blank">Prof. Shaodan Ma</a>, from the <a href="https://skliotsc.um.edu.mo/" target="_blank">State Key Laboratory of Internet of Things for Smart City</a>,  <a href="https://www.um.edu.mo/" target="_blank">University of Macau</a> in 2026, and B.Eng. degree in communication engineering from <a href="https://en.jlu.edu.cn/" target="_blank">Jilin University</a>, Changchun, China, in 2022. Now He is a Research Assistant in the State Key Laboratory of Internet of Things for Smart City at the University of Macau. 
 
-His main research interests include reconfigurable antenna array, reconfigurable distributed antennas and reflecting surface (RDARS), deep unfolding, and integrated sensing and communication (ISAC). He has served as a Technical Program Committee (TPC) Member for several flagship international conferences (e.g., IEEE Globecom 2026, IEEE ICC 2026, IEEE VTC-Spring 2026, and IEEE PIMRC 2026).
+Dr. Ji's main research interests include reconfigurable antenna array, reconfigurable distributed antennas and reflecting surface (RDARS), deep unfolding, and integrated sensing and communication (ISAC). He has served as a Technical Program Committee (TPC) Member for several flagship international conferences (e.g., IEEE Globecom 2026, IEEE ICC 2026, IEEE VTC-Spring 2026, and IEEE PIMRC 2026).
 
 
 ## Work Experience
