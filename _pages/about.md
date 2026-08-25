@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I received the PhD. degree in Electrical and Computer Engineering, under the supervision of <a href="https://personal.fst.um.edu.mo/shaodanma/" target="_blank">Prof. Shaodan Ma</a>, from the <a href="https://skliotsc.um.edu.mo/" target="_blank">State Key Laboratory of Internet of Things for Smart City</a>,  <a href="https://www.um.edu.mo/" target="_blank">University of Macau</a> in 2026, and B.Eng. degree in communication engineering from <a href="https://en.jlu.edu.cn/" target="_blank">Jilin University</a>, Changchun, China, in 2022. Now I am a Research Assistant in the State Key Laboratory of Internet of Things for Smart City at the University of Macau.
+Chengwang Ji (季成旺) received the PhD. degree in Electrical and Computer Engineering, under the supervision of <a href="https://personal.fst.um.edu.mo/shaodanma/" target="_blank">Prof. Shaodan Ma</a>, from the <a href="https://skliotsc.um.edu.mo/" target="_blank">State Key Laboratory of Internet of Things for Smart City</a>,  <a href="https://www.um.edu.mo/" target="_blank">University of Macau</a> in 2026, and B.Eng. degree in communication engineering from <a href="https://en.jlu.edu.cn/" target="_blank">Jilin University</a>, Changchun, China, in 2022. Now He is a Research Assistant in the State Key Laboratory of Internet of Things for Smart City at the University of Macau. 
 
+His main research interests include reconfigurable antenna array, reconfigurable distributed antennas and reflecting surface (RDARS), deep unfolding, and integrated sensing and communication (ISAC). He has served as a Technical Program Committee (TPC) Member for several flagship international conferences (e.g., IEEE Globecom 2026, IEEE ICC 2026, IEEE VTC-Spring 2026, and IEEE PIMRC 2026).
 
 
 ## Work Experience
@@ -24,10 +25,14 @@ I received the PhD. degree in Electrical and Computer Engineering, under the sup
 
 ## Recent News 📢
 ------
+
+<details open>
+<summary><strong>2026</strong></summary>
+
 * **Aug.23, 2026**: I was invited to serve as a TPC member for Workshop, “Next-Generation Signal Processing, Architecture and Waveforms for Intelligent 3CLS,” at Globecom 2026.
 * **Aug.5, 2026**: I joined the State Key Laboratory of Internet of Things for Smart City at University of Macau as a research assistant!
 * **Aug.3, 2026**: I gave a talk "RDARS-Enhanced Communication and Sensing Systems: From Optimization to Deep Unfolding" in the joint summer seminar with Tsinghua University at University of Macau.
-* **Jul.22, 2026**: **I pass my PhD oral defense titled "Beamforming and Mode Selection for RDARS-Aided Communication and Sensing Systems"!**
+* **Jul.22, 2026**: **I passed my PhD oral defense titled "Beamforming and Mode Selection for RDARS-Aided Communication and Sensing Systems"!**
 * **Jul.1, 2026**: Our paper "Mode switching for RDARS-aided ISAC systems: From optimization to deep unfolding" was submitted to IEEE TCOM.
 * **Jun.23, 2026**: Our paper "A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface" was selected as the **cover article** in JCIN.
 * **Jun.22, 2026**: I was invited to serve as a TPC member for Workshop 13, “Workshop on Reconfigurable Electromagnetic Technologies for 6G Multi-Functional Networks,” at PIMRC 2026.
@@ -38,14 +43,34 @@ I received the PhD. degree in Electrical and Computer Engineering, under the sup
 * **Mar.2, 2026**: I gave a presentation about recent RDARS works in the Postgraduate Student Forum in University of Macau.
 * **Feb.10, 2026**: I was invited to serve as a TPC member for Signal Processing for Wireless Communications, Cooperative Communication, at VTC Spring, 2026.
 * **Jan.13, 2026**: Our paper "A survey of beam management for mmWave and THz communications towards 6G" was selected as **Excellent Paper of the 2026 Sichuan-Chongqing Science and Technology Conference**.
-* **Jan.9, 2026**: I was awarded the Guangdong-Hong Kong-Macao Greater Bay Area (University of Macau) Taihu Scholarship (粤港澳大湾区(澳门大学)太湖奖学金).
+* **Jan.9, 2026**: I was awarded the Guangdong-Hong Kong-Macao Greater Bay Area (University of Macau) Taihu Scholarship.
+
+</details>
+
+<details>
+<summary><strong>2025</strong></summary>
+
 * **Dec.7, 2025**: I was invited to serve as a TPC member for SAC ISAC at ICC 2026.
-* **Nov.22, 2025**: Our work about the reconfigurable codebook-based beamforming design for RDARS is accpeted by TWC.
+* **Nov.22, 2025**: Our work about the reconfigurable codebook-based beamforming design for RDARS is accepted by TWC.
 * **Oct.27, 2025**: I gave a talk to share our recent work with Professors and students from Guangzhou University.
 * **Jun.10, 2025**: I presented our work about RDARS in IEEE ICC 2025 in Montreal, Canada.
 * **Jan.12, 2025**: Our work about RDARS-aided downlink MIMO system is accepted by IEEE ICC 2025.
+
+</details>
+
+<details>
+<summary><strong>2023</strong></summary>
+
 * **Aug.11, 2023**: Our demo (RDARS-aided ISAC system) is presented in ICCC 2023 in Dalian, China.
+
+</details>
+
+<details>
+<summary><strong>2022</strong></summary>
+
 * **Aug, 2022**: I joined the University of Macau as a Ph.D. student.
+
+</details>
 
 
 ## Research Interest 📡
@@ -75,6 +100,7 @@ Contact
 ======
 **Email:** ji.chengwang@connect.um.edu.mo  
 **Phone:** (+853) 63457118 / (+86) 17720272591
+
 
 <div style="text-align:center; margin-top: 30px; font-size: 0.9em; color: #666;">
   <span id="busuanzi_container_site_uv">
