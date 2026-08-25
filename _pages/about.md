@@ -26,49 +26,49 @@ Dr. Ji's main research interests include reconfigurable antenna array, reconfigu
 ## Recent News 📢
 ------
 
-<details open>
+<details markdown="1" open>
 <summary><strong>2026</strong></summary>
 
-* **Aug.23, 2026**: I was invited to serve as a TPC member for Workshop, “Next-Generation Signal Processing, Architecture and Waveforms for Intelligent 3CLS,” at Globecom 2026.
-* **Aug.5, 2026**: I joined the State Key Laboratory of Internet of Things for Smart City at University of Macau as a research assistant!
-* **Aug.3, 2026**: I gave a talk "RDARS-Enhanced Communication and Sensing Systems: From Optimization to Deep Unfolding" in the joint summer seminar with Tsinghua University at University of Macau.
-* **Jul.22, 2026**: **I passed my PhD oral defense titled "Beamforming and Mode Selection for RDARS-Aided Communication and Sensing Systems"!**
-* **Jul.1, 2026**: Our paper "Mode switching for RDARS-aided ISAC systems: From optimization to deep unfolding" was submitted to IEEE TCOM.
-* **Jun.23, 2026**: Our paper "A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface" was selected as the **cover article** in JCIN.
-* **Jun.22, 2026**: I was invited to serve as a TPC member for Workshop 13, “Workshop on Reconfigurable Electromagnetic Technologies for 6G Multi-Functional Networks,” at PIMRC 2026.
-* **May 24, 2026**: I presented our work in IEEE ICC, in Glasgow, UK.
-* **Apr.20, 2026**: Our work about sparse array-based mode selection is accepted by IEEE WCL.
-* **Apr.3, 2026**: Our work "A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface" is accepted by JCIN.
-* **Mar.9, 2026**: Our work about joint ISAC waveform and mode selection design is accepted by IEEE ICC 2026 workshop: 4th Workshop on "Intelligent Movable and Reconfigurable Antennas for Future Wireless Communication and Sensing".
-* **Mar.2, 2026**: I gave a presentation about recent RDARS works in the Postgraduate Student Forum in University of Macau.
-* **Feb.10, 2026**: I was invited to serve as a TPC member for Signal Processing for Wireless Communications, Cooperative Communication, at VTC Spring, 2026.
-* **Jan.13, 2026**: Our paper "A survey of beam management for mmWave and THz communications towards 6G" was selected as **Excellent Paper of the 2026 Sichuan-Chongqing Science and Technology Conference**.
-* **Jan.9, 2026**: I was awarded the Guangdong-Hong Kong-Macao Greater Bay Area (University of Macau) Taihu Scholarship.
+- **Aug.23, 2026**: I was invited to serve as a TPC member for Workshop, “Next-Generation Signal Processing, Architecture and Waveforms for Intelligent 3CLS,” at Globecom 2026.
+- **Aug.5, 2026**: I joined the State Key Laboratory of Internet of Things for Smart City at University of Macau as a research assistant!
+- **Aug.3, 2026**: I gave a talk "RDARS-Enhanced Communication and Sensing Systems: From Optimization to Deep Unfolding" in the joint summer seminar with Tsinghua University at University of Macau.
+- **Jul.22, 2026**: **I passed my PhD oral defense titled "Beamforming and Mode Selection for RDARS-Aided Communication and Sensing Systems"!**
+- **Jul.1, 2026**: Our paper "Mode switching for RDARS-aided ISAC systems: From optimization to deep unfolding" was submitted to IEEE TCOM.
+- **Jun.23, 2026**: Our paper "A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface" was selected as the **cover article** in JCIN.
+- **Jun.22, 2026**: I was invited to serve as a TPC member for Workshop 13, “Workshop on Reconfigurable Electromagnetic Technologies for 6G Multi-Functional Networks,” at PIMRC 2026.
+- **May 24, 2026**: I presented our work in IEEE ICC, in Glasgow, UK.
+- **Apr.20, 2026**: Our work about sparse array-based mode selection is accepted by IEEE WCL.
+- **Apr.3, 2026**: Our work "A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface" is accepted by JCIN.
+- **Mar.9, 2026**: Our work about joint ISAC waveform and mode selection design is accepted by IEEE ICC 2026 workshop: 4th Workshop on "Intelligent Movable and Reconfigurable Antennas for Future Wireless Communication and Sensing".
+- **Mar.2, 2026**: I gave a presentation about recent RDARS works in the Postgraduate Student Forum in University of Macau.
+- **Feb.10, 2026**: I was invited to serve as a TPC member for Signal Processing for Wireless Communications, Cooperative Communication, at VTC Spring, 2026.
+- **Jan.13, 2026**: Our paper "A survey of beam management for mmWave and THz communications towards 6G" was selected as **Excellent Paper of the 2026 Sichuan-Chongqing Science and Technology Conference**.
+- **Jan.9, 2026**: I was awarded the Guangdong-Hong Kong-Macao Greater Bay Area (University of Macau) Taihu Scholarship.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>2025</strong></summary>
 
-* **Dec.7, 2025**: I was invited to serve as a TPC member for SAC ISAC at ICC 2026.
-* **Nov.22, 2025**: Our work about the reconfigurable codebook-based beamforming design for RDARS is accepted by TWC.
-* **Oct.27, 2025**: I gave a talk to share our recent work with Professors and students from Guangzhou University.
-* **Jun.10, 2025**: I presented our work about RDARS in IEEE ICC 2025 in Montreal, Canada.
-* **Jan.12, 2025**: Our work about RDARS-aided downlink MIMO system is accepted by IEEE ICC 2025.
+- **Dec.7, 2025**: I was invited to serve as a TPC member for SAC ISAC at ICC 2026.
+- **Nov.22, 2025**: Our work about the reconfigurable codebook-based beamforming design for RDARS is accepted by TWC.
+- **Oct.27, 2025**: I gave a talk to share our recent work with Professors and students from Guangzhou University.
+- **Jun.10, 2025**: I presented our work about RDARS in IEEE ICC 2025 in Montreal, Canada.
+- **Jan.12, 2025**: Our work about RDARS-aided downlink MIMO system is accepted by IEEE ICC 2025.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>2023</strong></summary>
 
-* **Aug.11, 2023**: Our demo (RDARS-aided ISAC system) is presented in ICCC 2023 in Dalian, China.
+- **Aug.11, 2023**: Our demo (RDARS-aided ISAC system) is presented in ICCC 2023 in Dalian, China.
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>2022</strong></summary>
 
-* **Aug, 2022**: I joined the University of Macau as a Ph.D. student.
+- **Aug, 2022**: I joined the University of Macau as a Ph.D. student.
 
 </details>
 
