@@ -38,6 +38,7 @@ I received the PhD. degree in Electrical and Computer Engineering, under the sup
 * **Mar.2, 2026**: I gave a presentation about recent RDARS works in the Postgraduate Student Forum in University of Macau.
 * **Feb.10, 2026**: I was invited to serve as a TPC member for Signal Processing for Wireless Communications, Cooperative Communication, at VTC Spring, 2026.
 * **Jan.13, 2026**: Our paper "A survey of beam management for mmWave and THz communications towards 6G" was selected as **Excellent Paper of the 2026 Sichuan-Chongqing Science and Technology Conference**.
+* **Jan.9, 2026**: I was awarded the Guangdong-Hong Kong-Macao Greater Bay Area (University of Macau) Taihu Scholarship (粤港澳大湾区(澳门大学)太湖奖学金).
 * **Dec.7, 2025**: I was invited to serve as a TPC member for SAC ISAC at ICC 2026.
 * **Nov.22, 2025**: Our work about the reconfigurable codebook-based beamforming design for RDARS is accpeted by TWC.
 * **Oct.27, 2025**: I gave a talk to share our recent work with Professors and students from Guangzhou University.
