@@ -14,7 +14,7 @@ Dr. Ji's main research interests include reconfigurable antenna array, reconfigu
 
 ## Work Experience
 ------
-* 2026.8-2027.6, Research Assistant, University of Macau, Macau, China
+* 2026.8-present, Research Assistant, University of Macau, Macau, China
 
 ## Education Experience
 ------
