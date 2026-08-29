@@ -29,6 +29,7 @@ Dr. Ji's main research interests include reconfigurable antenna array, reconfigu
 <details markdown="1" open>
 <summary><strong>2026</strong></summary>
 
+- **Aug.29, 2026**: I was invited to serve as a TPC member for SAC - Integrated Sensing and Communications at 2027 IEEE International Conference on Communications (ICC).
 - **Aug.23, 2026**: I was invited to serve as a TPC member for Workshop, “Next-Generation Signal Processing, Architecture and Waveforms for Intelligent 3CLS,” at Globecom 2026.
 - **Aug.5, 2026**: I joined the State Key Laboratory of Internet of Things for Smart City at University of Macau as a research assistant!
 - **Aug.3, 2026**: I gave a talk "RDARS-Enhanced Communication and Sensing Systems: From Optimization to Deep Unfolding" in the joint summer seminar with Tsinghua University at University of Macau.
