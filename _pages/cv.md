@@ -9,187 +9,180 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="
+<style>
+  .cv-downloads {
     margin-bottom: 30px;
+    display: grid;
+    gap: 12px;
+  }
+
+  .cv-download-row {
     display: flex;
-    flex-wrap: wrap;
-    gap: 25px;
     align-items: center;
-">
+    flex-wrap: wrap;
+    gap: 12px;
+  }
 
-  <!-- English CV -->
-  <div style="display: flex; align-items: center; gap: 8px;">
+  .cv-download-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 700;
+    border: 1px solid #24292e;
+    line-height: 1.2;
+  }
 
-    <a id="cv-en-btn"
-       href="/files/cv_en.pdf"
-       target="_blank"
-       rel="noopener noreferrer"
-       style="
-          display: inline-block;
-          padding: 10px 20px;
-          background-color: #24292e;
-          color: #ffffff;
-          text-decoration: none;
-          border-radius: 5px;
-          font-weight: bold;
-          border: 1px solid #24292e;">
-      📄 English CV (PDF)
+  .cv-download-link--dark {
+    background-color: #24292e;
+    color: #ffffff;
+  }
+
+  .cv-download-link--light {
+    background-color: #ffffff;
+    color: #24292e;
+  }
+
+  .cv-download-count {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: #6b7280;
+    font-size: 0.92rem;
+    white-space: nowrap;
+    min-width: 110px;
+  }
+
+  .cv-download-count i {
+    font-size: 0.85rem;
+  }
+</style>
+
+<div class="cv-downloads">
+  <div class="cv-download-row">
+    <a
+      id="cv-en-link"
+      class="cv-download-link cv-download-link--dark"
+      href="{{ base_path }}/files/cv_en.pdf"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Download English CV as PDF"
+    >
+      <i class="fa-solid fa-file-pdf" aria-hidden="true"></i>
+      <span>English CV (PDF)</span>
     </a>
-
-    <span id="cv-en-count"
-          style="
-            font-size: 0.85em;
-            color: #777;
-            white-space: nowrap;">
-      0 downloads
+    <span class="cv-download-count" aria-live="polite">
+      <i class="fa-solid fa-download" aria-hidden="true"></i>
+      <span id="cv-en-count">--</span>
+      <span>downloads</span>
     </span>
-
   </div>
 
-
-  <!-- Chinese CV -->
-  <div style="display: flex; align-items: center; gap: 8px;">
-
-    <a id="cv-cn-btn"
-       href="/files/cv_cn.pdf"
-       target="_blank"
-       rel="noopener noreferrer"
-       style="
-          display: inline-block;
-          padding: 10px 20px;
-          background-color: #ffffff;
-          color: #24292e;
-          text-decoration: none;
-          border-radius: 5px;
-          font-weight: bold;
-          border: 1px solid #24292e;">
-      📄 中文简历 (PDF)
+  <div class="cv-download-row">
+    <a
+      id="cv-cn-link"
+      class="cv-download-link cv-download-link--light"
+      href="{{ base_path }}/files/cv_cn.pdf"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Download Chinese CV as PDF"
+    >
+      <i class="fa-solid fa-file-pdf" aria-hidden="true"></i>
+      <span>中文简历 (PDF)</span>
     </a>
-
-    <span id="cv-cn-count"
-          style="
-            font-size: 0.85em;
-            color: #777;
-            white-space: nowrap;">
-      0 次下载
+    <span class="cv-download-count" aria-live="polite">
+      <i class="fa-solid fa-download" aria-hidden="true"></i>
+      <span id="cv-cn-count">--</span>
+      <span>次下载</span>
     </span>
-
   </div>
-
 </div>
 
-
 <script>
-document.addEventListener("DOMContentLoaded", function () {
-
-    const API_BASE = "https://countapi.mileshilliard.com/api/v1";
-
-    // 根据你的域名自动生成独立的计数器名称
-    const siteKey = window.location.hostname
-        .replace(/[^a-zA-Z0-9_-]/g, "-");
-
-    const counters = {
-        en: siteKey + "-cv-en-downloads",
-        cn: siteKey + "-cv-cn-downloads"
-    };
-
-
-    // 读取当前下载次数
-    async function loadCount(key, elementId, language) {
-        const element = document.getElementById(elementId);
-
-        try {
-            const response = await fetch(
-                `${API_BASE}/get/${key}`,
-                { cache: "no-store" }
-            );
-
-            if (!response.ok) {
-                throw new Error("Counter does not exist yet.");
-            }
-
-            const data = await response.json();
-
-            if (language === "en") {
-                element.textContent =
-                    `${data.value} ${data.value === 1 ? "download" : "downloads"}`;
-            } else {
-                element.textContent =
-                    `${data.value} 次下载`;
-            }
-
-        } catch (error) {
-            if (language === "en") {
-                element.textContent = "0 downloads";
-            } else {
-                element.textContent = "0 次下载";
-            }
+  (function () {
+    var apiBase = "https://countapi.mileshilliard.com/api/v1";
+    var items = [
+      {
+        linkId: "cv-en-link",
+        countId: "cv-en-count",
+        key: "chengwangji-cv-en-downloads",
+        format: function (value) {
+          return value + " " + (value === 1 ? "download" : "downloads");
         }
+      },
+      {
+        linkId: "cv-cn-link",
+        countId: "cv-cn-count",
+        key: "chengwangji-cv-cn-downloads",
+        format: function (value) {
+          return value + " 次下载";
+        }
+      }
+    ];
+
+    function setCount(countId, value) {
+      var el = document.getElementById(countId);
+      if (el) {
+        el.textContent = value;
+      }
     }
 
+    function loadCount(item) {
+      return fetch(apiBase + "/get/" + item.key, { cache: "no-store" })
+        .then(function (response) {
+          if (response.status === 404) {
+            return fetch(apiBase + "/set/" + item.key + "?value=0", {
+              cache: "no-store"
+            }).then(function () {
+              return { value: 0 };
+            });
+          }
 
-    // 点击按钮后次数 +1
-    async function increaseCount(key, elementId, language) {
-        const element = document.getElementById(elementId);
+          if (!response.ok) {
+            throw new Error("Failed to load count");
+          }
 
-        try {
-            const response = await fetch(
-                `${API_BASE}/hit/${key}`,
-                {
-                    cache: "no-store",
-                    keepalive: true
-                }
-            );
-
-            if (!response.ok) return;
-
-            const data = await response.json();
-
-            if (language === "en") {
-                element.textContent =
-                    `${data.value} ${data.value === 1 ? "download" : "downloads"}`;
-            } else {
-                element.textContent =
-                    `${data.value} 次下载`;
-            }
-
-        } catch (error) {
-            console.log("Download counter error:", error);
-        }
+          return response.json();
+        })
+        .then(function (data) {
+          setCount(item.countId, item.format(data.value));
+        })
+        .catch(function () {
+          setCount(item.countId, "--");
+        });
     }
 
+    function trackClick(item) {
+      var link = document.getElementById(item.linkId);
+      if (!link) {
+        return;
+      }
 
-    // 页面加载时显示当前次数
-    loadCount(counters.en, "cv-en-count", "en");
-    loadCount(counters.cn, "cv-cn-count", "cn");
+      link.addEventListener("click", function () {
+        fetch(apiBase + "/hit/" + item.key, {
+          cache: "no-store",
+          keepalive: true
+        })
+          .then(function (response) {
+            return response.ok ? response.json() : null;
+          })
+          .then(function (data) {
+            if (data && typeof data.value !== "undefined") {
+              setCount(item.countId, item.format(data.value));
+            }
+          })
+          .catch(function () {});
+      });
+    }
 
-
-    // 英文简历
-    document
-        .getElementById("cv-en-btn")
-        .addEventListener("click", function () {
-            increaseCount(
-                counters.en,
-                "cv-en-count",
-                "en"
-            );
-        });
-
-
-    // 中文简历
-    document
-        .getElementById("cv-cn-btn")
-        .addEventListener("click", function () {
-            increaseCount(
-                counters.cn,
-                "cv-cn-count",
-                "cn"
-            );
-        });
-
-});
+    items.forEach(function (item) {
+      loadCount(item);
+      trackClick(item);
+    });
+  })();
 </script>
-
 
 Education
 ======
