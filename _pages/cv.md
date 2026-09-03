@@ -65,7 +65,7 @@ redirect_from:
     <a
       id="cv-en-link"
       class="cv-download-link cv-download-link--dark"
-      href="{{ base_path }}/files/CV_Chengwangji.pdf"
+      href="{{ base_path }}/files/CV_ChengwangJi.pdf"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Download English CV as PDF"
