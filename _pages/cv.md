@@ -109,7 +109,7 @@ redirect_from:
         countId: "cv-en-count",
         key: "chengwangji-cv-en-downloads",
         format: function (value) {
-          return value + " " + (value === 1 ? "download" : "downloads");
+          return value + " " + (value === 1 ? "download" : "");
         }
       },
       {
@@ -117,7 +117,7 @@ redirect_from:
         countId: "cv-cn-count",
         key: "chengwangji-cv-cn-downloads",
         format: function (value) {
-          return value + " 次下载";
+          return value + "";
         }
       }
     ];
