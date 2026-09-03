@@ -84,7 +84,7 @@ redirect_from:
     <a
       id="cv-cn-link"
       class="cv-download-link cv-download-link--light"
-      href="{{ base_path }}/files/cv_cn.pdf"
+      href="{{ base_path }}/files/简历_季成旺.pdf"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Download Chinese CV as PDF"
