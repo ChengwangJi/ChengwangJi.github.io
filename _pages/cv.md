@@ -90,7 +90,7 @@ redirect_from:
       aria-label="Download Chinese CV as PDF"
     >
       <i class="fa-solid fa-file-pdf" aria-hidden="true"></i>
-      <span>中文简历 (PDF)</span>
+      <span>Chinese CV (PDF)</span>
     </a>
     <span class="cv-download-count" aria-live="polite">
       <i class="fa-solid fa-download" aria-hidden="true"></i>
