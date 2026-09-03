@@ -95,7 +95,7 @@ redirect_from:
     <span class="cv-download-count" aria-live="polite">
       <i class="fa-solid fa-download" aria-hidden="true"></i>
       <span id="cv-cn-count">--</span>
-      <span>次下载</span>
+      <span>downloads</span>
     </span>
   </div>
 </div>
