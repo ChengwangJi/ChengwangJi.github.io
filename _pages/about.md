@@ -22,7 +22,8 @@ Dr. Ji's main research interests include reconfigurable antenna array, reconfigu
 * 2018.9-2022.6, Bachelor, Communication Engineering, Jilin University, Changchun, China
 
 
-
+## Main collaborator
+<a href="https://scholar.google.com/citations?user=RZcHrzgAAAAJ&hl=en" target="_blank">Prof. Haiquan Lu</a>, <a href="https://scholar.google.com/citations?user=dkQrb10AAAAJ&hl=en-ch" target="_blank">Prof. Jintao Wang</a>
  
 
 ## Recent News 📢
