@@ -23,7 +23,7 @@ Dr. Ji's main research interests include reconfigurable antenna array, reconfigu
 
 
 ## Main collaborator
-<a href="[https://teacher.njust.edu.cn/dzgd/lhq/list.htm](https://teacher.njust.edu.cn/dzgd/lhq/list.htm)" target="_blank">Prof. Haiquan Lu</a>, <a href="https://scholar.google.com/citations?user=dkQrb10AAAAJ&hl=en-ch" target="_blank">Prof. Jintao Wang</a>
+<a href="https://teacher.njust.edu.cn/dzgd/lhq/list.htm" target="_blank">Prof. Haiquan Lu</a>, <a href="https://scholar.google.com/citations?user=dkQrb10AAAAJ&hl=en-ch" target="_blank">Prof. Jintao Wang</a>
  
 
 ## Recent News 📢
