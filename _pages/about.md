@@ -24,18 +24,18 @@ Dr. Ji's main research interests include reconfigurable antenna array, reconfigu
 
 ## Main Collaborators
 <ul>
-  <li><a href="https://personal.fst.um.edu.mo/shaodanma/" target="_blank" rel="noopener noreferrer">Shaodan Ma</a></li>
-  <li><a href="https://ece.hkust.edu.hk/eejiajiaguo" target="_blank" rel="noopener noreferrer">Jiajia Guo</a></li>
+  <li><a href="https://personal.fst.um.edu.mo/shaodanma/" target="_blank" rel="noopener noreferrer">Prof. Shaodan Ma (University of Macau)</a></li>
+  <li><a href="https://teacher.njust.edu.cn/dzgd/lhq/list.htm" target="_blank" rel="noopener noreferrer">Prof. Haiquan Lu (Nanjing University of Science and Technology)</a></li>
+  <li><a href="https://scholar.google.com/citations?user=dkQrb10AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Jintao Wang (Jinan University)</a></li>
+  <li><a href="https://scholar.google.com/citations?user=MCJ6zqgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Dr. Qiaoyan Peng</a></li>
+  <li><a href="https://ece.hkust.edu.hk/eejiajiaguo" target="_blank" rel="noopener noreferrer">Prof. Jiajia Guo</a></li>
   <li><a href="https://scholar.google.com/citations?user=kK2thisAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Qing Xue</a></li>
-  <li><a href="http://www2.ee.unsw.edu.au/~wzhang/" target="_blank" rel="noopener noreferrer">Wei Zhang</a></li>
-  <li><a href="https://scholar.google.com/citations?user=dkQrb10AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Jintao Wang</a></li>
-  <li><a href="https://scholar.google.com/citations?user=MCJ6zqgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Qiaoyan Peng</a></li>
-  <li><a href="https://teacher.njust.edu.cn/dzgd/lhq/list.htm" target="_blank" rel="noopener noreferrer">Haiquan Lu</a></li>
-  <li><a href="https://scholar.google.com/citations?user=_VDYtKMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Feifei Gao</a></li>
+  <li><a href="http://www2.ee.unsw.edu.au/~wzhang/" target="_blank" rel="noopener noreferrer">Prof. Wei Zhang</a></li>
+  <li><a href="https://scholar.google.com/citations?user=_VDYtKMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Feifei Gao</a></li>
   <li><a href="https://scholar.google.com/citations?user=oyok-_kAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Kehui Li</a></li>
-  <li><a href="https://scholar.google.com/citations?user=0GaD5AEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Guanghua Yang</a></li>
-  <li><a href="https://vitusmacz.github.io/" target="_blank" rel="noopener noreferrer">Chengzhi Ma</a></li>
-  <li><a href="https://scholar.google.com/citations?user=_DQ7HfQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Zheng Shi</a></li>
+  <li><a href="https://scholar.google.com/citations?user=0GaD5AEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Guanghua Yang (Jinan University)</a></li>
+  <li><a href="https://vitusmacz.github.io/" target="_blank" rel="noopener noreferrer">Dr. Chengzhi Ma</a></li>
+  <li><a href="https://scholar.google.com/citations?user=_DQ7HfQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Zheng Shi (Jinan University)</a></li>
 </ul>
  
 
