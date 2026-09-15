@@ -28,8 +28,8 @@ Dr. Ji's main research interests include reconfigurable antenna array, reconfigu
   <li><a href="https://teacher.njust.edu.cn/dzgd/lhq/list.htm" target="_blank" rel="noopener noreferrer">Prof. Haiquan Lu (Nanjing University of Science and Technology)</a></li>
   <li><a href="https://scholar.google.com/citations?user=dkQrb10AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Jintao Wang (Jinan University)</a></li>
   <li><a href="https://scholar.google.com/citations?user=MCJ6zqgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Dr. Qiaoyan Peng</a></li>
+  <li><a href="https://scholar.google.com/citations?user=kK2thisAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Qing Xue (Chongqing University of Posts and Telecommunications)</a></li>
   <li><a href="https://ece.hkust.edu.hk/eejiajiaguo" target="_blank" rel="noopener noreferrer">Prof. Jiajia Guo (The Hong Kong University of Science and Technology)</a></li>
-  <li><a href="https://scholar.google.com/citations?user=kK2thisAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Qing Xue (Chongqing University of Posts and Telecommunications)</a></li>
   <li><a href="http://www2.ee.unsw.edu.au/~wzhang/" target="_blank" rel="noopener noreferrer">Prof. Wei Zhang (The University of New South Wales)</a></li>
   <li><a href="https://scholar.google.com/citations?user=_VDYtKMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Feifei Gao (Tsinghua University)</a></li>
   <li><a href="https://scholar.google.com/citations?user=oyok-_kAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Mr. Kehui Li (University of Macau)</a></li>
