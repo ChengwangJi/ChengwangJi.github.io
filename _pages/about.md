@@ -125,4 +125,6 @@ Contact
   </span>
 </div>
 
+<a href="https://toolspivot.com/zh/flag-counter/details/j3/"><img src="https://toolspivot.com/zh/flag-counter/load/j3/" alt="Flag Counter"></a>
+
 <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
