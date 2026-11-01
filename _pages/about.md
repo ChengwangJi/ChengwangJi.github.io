@@ -120,13 +120,3 @@ Contact
 **Email:** ji.chengwang@connect.um.edu.mo  
 **Phone:** (+853) 63457118 / (+86) 17720272591
 
-
-<div style="text-align:center; margin-top: 30px; font-size: 0.9em; color: #666;">
-  <span id="busuanzi_container_site_uv">
-   You are visitor No. <span id="busuanzi_value_site_uv"></span>.
-  </span>
-</div>
-
-<a href="https://toolspivot.com/zh/flag-counter/details/j3/"><img src="https://toolspivot.com/zh/flag-counter/load/j3/" alt="Flag Counter"></a>
-
-<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
