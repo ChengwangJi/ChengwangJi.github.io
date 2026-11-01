@@ -310,13 +310,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-<div style="margin-top: 20px;">
-  <a href="https://toolspivot.com/zh/flag-counter/details/j3/"
-     target="_blank"
-     rel="noopener noreferrer">
-    <img src="https://toolspivot.com/zh/flag-counter/load/j3/"
-         alt="Flag Counter"
-         style="display: block; width: 100%; max-width: 220px; height: auto; border-radius: 0;">
-  </a>
-</div>
