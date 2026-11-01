@@ -34,7 +34,7 @@ Dr.Ji's main research interests include reconfigurable antenna array, reconfigur
   <li><a href="https://scholar.google.com/citations?user=_VDYtKMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Feifei Gao (Tsinghua University)</a></li>
   <li><a href="https://scholar.google.com/citations?user=oyok-_kAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Mr. Kehui Li (University of Macau)</a></li>
   <li><a href="https://scholar.google.com/citations?user=0GaD5AEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Guanghua Yang (Jinan University)</a></li>
-  <li><a href="https://vitusmacz.github.io/" target="_blank" rel="noopener noreferrer">Dr. Chengzhi Ma</a></li>
+  <li><a href="https://vitusmacz.github.io/" target="_blank" rel="noopener noreferrer">Dr. Chengzhi Ma (University of Macau)</a></li>
   <li><a href="https://scholar.google.com/citations?user=_DQ7HfQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Zheng Shi (Jinan University)</a></li>
 </ul>
  
