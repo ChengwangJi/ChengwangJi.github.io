@@ -45,7 +45,7 @@ Dr.Ji's main research interests include reconfigurable antenna array, reconfigur
 <details markdown="1" open>
 <summary><strong>2026</strong></summary>
 
-- **Oct.31, 2026**: I was invited by Prof. Weiqiang Tan to give a talk entitled “RDARS-Enhanced Communication and Sensing Systems: From Optimization to Deep Unfolding” at the School of Computer Science and Cyber Engineering, Guangzhou University.
+- **Oct.31, 2026**: I was invited by <a href="https://jsj.gzhu.edu.cn/info/1838/2693.htm" target="_blank">Prof. Weiqiang Tan</a> to give a talk entitled “RDARS-Enhanced Communication and Sensing Systems: From Optimization to Deep Unfolding” at the School of Computer Science and Cyber Engineering, Guangzhou University.
 - **Oct.12, 2026**: Our paper "Model-Driven Deep Learning Enhanced Joint Beamforming and Mode Switching for RDARS-Aided MIMO Systems" is accepted by IEEE TCCN!
 - **Aug.29, 2026**: I was invited to serve as a TPC member for SAC - Integrated Sensing and Communications at 2027 IEEE International Conference on Communications (ICC).
 - **Aug.23, 2026**: I was invited to serve as a TPC member for Workshop, “Next-Generation Signal Processing, Architecture and Waveforms for Intelligent 3CLS,” at Globecom 2026.
