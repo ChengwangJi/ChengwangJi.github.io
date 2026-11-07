@@ -121,6 +121,6 @@ Contact
 **Phone:** (+853) 63457118 / (+86) 17720272591
 
 ## Award
-* **Excellent Paper of the 2026 Sichuan-Chongqing Science and Technology Conference**
-* **Guangdong-Hong Kong-Macao Greater Bay Area (University of Macau) Taihu Scholarship**
+* Excellent Paper of the 2026 Sichuan-Chongqing Science and Technology Conference
+* Guangdong-Hong Kong-Macao Greater Bay Area (University of Macau) Taihu Scholarship (粤港澳大湾区（澳门大学）太湖奖学金）
 
